@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Button5834324.MainPage">
+
+    
+    <StackLayout Margin="20,35,20,20">
+        <Button Text="Presioname"
+                TextColor="White"  
+                BackgroundColor="Black"
+                BorderColor="White"
+                BorderWidth="3"
+                CornerRadius="30"
+                WidthRequest="100"
+                HeightRequest="70"
+                Clicked="Button_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
